@@ -54,5 +54,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am currently in my fourth and final year of my Ph.D. program at the Delft University of Technology, under the supervision of [Botond Szabó](https://botondszabo.com/), [Aad van der Vaart](https://fa.ewi.tudelft.nl/~vaart/) and [Harry van Zanten](https://vu.amsterdamstatlab.nl/).
+I am a Ph.D. student at the [Delft Institute of Applied Mathematics](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) at the [Delft University of Technology](https://www.tudelft.nl/), under the supervision of [Botond Szabó](https://botondszabo.com/), [Aad van der Vaart](https://fa.ewi.tudelft.nl/~vaart/) and [Harry van Zanten](https://vu.amsterdamstatlab.nl/).
 {style="text-align: justify;"}
