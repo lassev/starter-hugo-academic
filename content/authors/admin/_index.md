@@ -1,38 +1,40 @@
 ---
 title: Lasse Vuursteen
 role: PhD student Mathematical Statistics
-bio: Research interests High-dimensional and nonparametric statistics,
-  adaptation, semi-parametric statistics, Bayesian methods, causal inference,
-  information theory, distributed methods and privacy.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Research interests High-dimensional and nonparametric statistics
+  - adaptation
+  - semi-parametric statistics
+  - Bayesian methods
+  - causal inference
+  - information theory
+  - distributed methods and privacy.
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: /#l.vuursteen@tudelft.nl
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/lassevuursteen
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=JtvExucAAAAJ&hl=nl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lassev
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/lasse-vuursteen-054136123/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Delft University of Technology
+    url: https://www.tudelft.nl/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -52,6 +54,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently in my fourth and final year of my Ph.D. program at the Delft University of Technology, under the supervision of [Botond Szabó](https://botondszabo.com/), [Aad van der Vaart](https://fa.ewi.tudelft.nl/~vaart/) and [Harry van Zanten](https://vu.amsterdamstatlab.nl/).
 {style="text-align: justify;"}
